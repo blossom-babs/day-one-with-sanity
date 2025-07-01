@@ -2,6 +2,8 @@
 
 A hands-on walkthrough following [Sanity's official Day One course](https://www.sanity.io/docs) to learn how to structure content, define schemas, and build a customizable content studio.
 
+Deployed at `https://sanity-101.sanity.studio/`
+
 ## 📚 What I Learned
 
 - How to scaffold a Sanity Studio using the CLI
